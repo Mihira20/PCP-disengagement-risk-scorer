@@ -36,6 +36,12 @@ outpatient utilization, chronic disease burden
 - Medium Risk: 32,497 members (next 30%)
 - Low Risk: 66,280 members (bottom 60%)
 
+## Dashboard Preview
+
+![Dashboard Overview](assets/dashboard1.png)
+![Charts](assets/dashboard2.png)
+![Priority List](assets/dashboard3.png)
+
 ## Dataset
 CMS Synthetic Public Use Files (SynPUF) — 
 publicly available at Kaggle.
